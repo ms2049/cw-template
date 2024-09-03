@@ -66,6 +66,18 @@
 > Do not blindly trust that the pipeline works. Verify that each invocation is identical by checking the output. For further checks, you can use methods such as calculating the MD5 checksum for files.
 
 
+## Coursework Requirements
+
+> [!IMPORTANT]
+> Include a short description (100 words max.) of each Coursework Requirement (R2-R5) and their location within your repository.
+
+### R2. Data Analysis and Exploration
+
+### R3. Clustering
+
+### R4.	Baseline Training and Evaluation Experiments
+
+### R5. Neural Networks
 
 
 ## Documentation
