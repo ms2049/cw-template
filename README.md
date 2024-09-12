@@ -1,12 +1,5 @@
 # Data Mining and Machine Learning Group Coursework
 
-> [!TIP]
-> You should update and customize this README as the project progresses.
-
-> [!IMPORTANT]
-> You should complete this README as soon as possible and then delete all messages like this one. This is your first task as a group. Your project should not contain any of these ["alerts"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) by Week 4.
-
-
 ## Group Members
 
 > [!IMPORTANT]
